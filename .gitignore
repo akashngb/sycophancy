@@ -1,0 +1,60 @@
+# Secrets
+.env
+.envrc
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Build
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Hugging Face / model caches
+.cache/
+hf_cache/
+.hf_cache/
+transformers_cache/
+~/.cache/huggingface
+
+# Data
+data/raw/
+data/processed/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Results (keep README and the directory itself)
+results/*
+!results/README.md
+!results/.gitkeep
+
+# Model weights and other large files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+*.onnx
+
