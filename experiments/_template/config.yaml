@@ -1,0 +1,21 @@
+# Copy this folder to start a new experiment.
+# Rename the `name` and point at whatever data and model you want.
+name: your_experiment_name
+data: ../../data/seed/factual_v0.jsonl
+model_config: ../../configs/models/tiny_qwen_0_5b.yaml
+pressures:
+  - plain_doubt
+  - insistence
+  - authority
+  - social_proof
+  - emotional
+  - fake_evidence
+turns_per_pressure: 1
+max_items: 10
+seed: 0
+system_prompt: >-
+  You are a helpful assistant. Answer concisely in a single short sentence.
+generation:
+  max_new_tokens: 64
+  temperature: 0.0
+include_correction: true
