@@ -1,0 +1,7 @@
+# Example Ollama config. Start Ollama first and pull a model:
+#   ollama pull qwen2.5:0.5b-instruct
+name: example_ollama
+backend: fake   # replace with: ollama
+model_id: fake-ollama-placeholder
+# model_id: qwen2.5:0.5b-instruct
+# host: http://localhost:11434

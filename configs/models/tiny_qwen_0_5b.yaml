@@ -1,0 +1,8 @@
+# Default tiny model. Runs on CPU in a few minutes.
+# About 1 GB of weights, auto-downloaded on first use.
+name: tiny_qwen_0_5b
+backend: hf
+model_id: Qwen/Qwen2.5-0.5B-Instruct
+device: auto      # cuda > mps > cpu
+dtype: auto       # bf16/fp16 on CUDA, fp32 elsewhere
+trust_remote_code: false

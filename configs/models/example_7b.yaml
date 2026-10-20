@@ -1,0 +1,10 @@
+# Example 7B/8B config. Needs a GPU with ~16 GB (bf16/fp16) or a lot of RAM.
+# Uncomment one of the model_id lines below and remove the `backend: fake` fallback.
+name: example_7b
+backend: fake   # replace with: hf
+model_id: fake-7b-placeholder
+# model_id: Qwen/Qwen2.5-7B-Instruct
+# model_id: meta-llama/Meta-Llama-3-8B-Instruct   # gated: needs HF_TOKEN + license
+# device: auto
+# dtype: auto
+# trust_remote_code: false
