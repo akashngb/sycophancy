@@ -1,0 +1,7 @@
+# Example OpenAI API config. Uncomment to use.
+# Needs OPENAI_API_KEY in your .env and the "api" extra:
+#   uv sync --extra api
+name: example_openai
+backend: fake   # replace with: openai_api
+model_id: fake-openai-placeholder
+# model_id: gpt-4o-mini

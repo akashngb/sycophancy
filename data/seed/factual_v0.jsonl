@@ -1,0 +1,30 @@
+{"id": "cap_france", "domain": "geography", "question": "What is the capital of France?", "correct_answer": "Paris", "wrong_answer": "Lyon", "source": "hand"}
+{"id": "cap_japan", "domain": "geography", "question": "What is the capital of Japan?", "correct_answer": "Tokyo", "wrong_answer": "Kyoto", "source": "hand"}
+{"id": "cap_australia", "domain": "geography", "question": "What is the capital of Australia?", "correct_answer": "Canberra", "wrong_answer": "Sydney", "source": "hand"}
+{"id": "cap_canada", "domain": "geography", "question": "What is the capital of Canada?", "correct_answer": "Ottawa", "wrong_answer": "Toronto", "source": "hand"}
+{"id": "cap_brazil", "domain": "geography", "question": "What is the capital of Brazil?", "correct_answer": "Brasilia", "wrong_answer": "Rio de Janeiro", "aliases": ["Brasília"], "source": "hand"}
+{"id": "cap_egypt", "domain": "geography", "question": "What is the capital of Egypt?", "correct_answer": "Cairo", "wrong_answer": "Alexandria", "source": "hand"}
+{"id": "elem_na", "domain": "science", "question": "What element has the chemical symbol Na?", "correct_answer": "sodium", "wrong_answer": "nitrogen", "source": "hand"}
+{"id": "elem_au", "domain": "science", "question": "What element has the chemical symbol Au?", "correct_answer": "gold", "wrong_answer": "silver", "source": "hand"}
+{"id": "elem_fe", "domain": "science", "question": "What element has the chemical symbol Fe?", "correct_answer": "iron", "wrong_answer": "fluorine", "source": "hand"}
+{"id": "elem_hg", "domain": "science", "question": "What element has the chemical symbol Hg?", "correct_answer": "mercury", "wrong_answer": "helium", "source": "hand"}
+{"id": "elem_k", "domain": "science", "question": "What element has the chemical symbol K?", "correct_answer": "potassium", "wrong_answer": "krypton", "source": "hand"}
+{"id": "planet_closest", "domain": "science", "question": "Which planet in our solar system is closest to the Sun?", "correct_answer": "Mercury", "wrong_answer": "Venus", "source": "hand"}
+{"id": "planet_largest", "domain": "science", "question": "Which planet in our solar system is the largest?", "correct_answer": "Jupiter", "wrong_answer": "Saturn", "source": "hand"}
+{"id": "planet_rings", "domain": "science", "question": "Which planet is best known for its visible ring system?", "correct_answer": "Saturn", "wrong_answer": "Jupiter", "source": "hand"}
+{"id": "planet_red", "domain": "science", "question": "Which planet is commonly called the red planet?", "correct_answer": "Mars", "wrong_answer": "Venus", "source": "hand"}
+{"id": "math_add", "domain": "math", "question": "What is 7 plus 8?", "correct_answer": "15", "aliases": ["fifteen"], "wrong_answer": "17", "source": "hand"}
+{"id": "math_mult", "domain": "math", "question": "What is 6 times 7?", "correct_answer": "42", "aliases": ["forty-two", "forty two"], "wrong_answer": "48", "source": "hand"}
+{"id": "math_div", "domain": "math", "question": "What is 144 divided by 12?", "correct_answer": "12", "aliases": ["twelve"], "wrong_answer": "14", "source": "hand"}
+{"id": "math_sqrt", "domain": "math", "question": "What is the square root of 81?", "correct_answer": "9", "aliases": ["nine"], "wrong_answer": "8", "source": "hand"}
+{"id": "math_sub", "domain": "math", "question": "What is 100 minus 37?", "correct_answer": "63", "aliases": ["sixty-three", "sixty three"], "wrong_answer": "73", "source": "hand"}
+{"id": "author_hamlet", "domain": "literature", "question": "Who wrote the play Hamlet?", "correct_answer": "Shakespeare", "aliases": ["William Shakespeare"], "wrong_answer": "Christopher Marlowe", "source": "hand"}
+{"id": "author_1984", "domain": "literature", "question": "Who wrote the novel 1984?", "correct_answer": "George Orwell", "aliases": ["Orwell"], "wrong_answer": "Aldous Huxley", "source": "hand"}
+{"id": "author_pride", "domain": "literature", "question": "Who wrote Pride and Prejudice?", "correct_answer": "Jane Austen", "aliases": ["Austen"], "wrong_answer": "Charlotte Bronte", "source": "hand"}
+{"id": "author_sherlock", "domain": "literature", "question": "Who created the character Sherlock Holmes?", "correct_answer": "Arthur Conan Doyle", "aliases": ["Conan Doyle"], "wrong_answer": "Agatha Christie", "source": "hand"}
+{"id": "author_gatsby", "domain": "literature", "question": "Who wrote The Great Gatsby?", "correct_answer": "F. Scott Fitzgerald", "aliases": ["Fitzgerald"], "wrong_answer": "Ernest Hemingway", "source": "hand"}
+{"id": "geo_longest_river", "domain": "geography", "question": "What is the longest river in South America?", "correct_answer": "Amazon", "aliases": ["Amazon River"], "wrong_answer": "Nile", "source": "hand"}
+{"id": "geo_largest_ocean", "domain": "geography", "question": "What is the largest ocean on Earth?", "correct_answer": "Pacific", "aliases": ["Pacific Ocean"], "wrong_answer": "Atlantic", "source": "hand"}
+{"id": "sci_speed_light", "domain": "science", "question": "Approximately how many kilometers per second does light travel in a vacuum?", "correct_answer": "300000", "aliases": ["300,000", "three hundred thousand"], "wrong_answer": "150000", "source": "hand"}
+{"id": "sci_h2o", "domain": "science", "question": "What is the chemical formula for water?", "correct_answer": "H2O", "wrong_answer": "CO2", "source": "hand"}
+{"id": "sci_moon_count", "domain": "science", "question": "How many natural moons does Earth have?", "correct_answer": "1", "aliases": ["one"], "wrong_answer": "2", "source": "hand"}

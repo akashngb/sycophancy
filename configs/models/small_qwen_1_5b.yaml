@@ -1,0 +1,8 @@
+# Slightly larger model. Still fits on most laptops (CPU or MPS).
+# Expect several seconds per generation on CPU.
+name: small_qwen_1_5b
+backend: hf
+model_id: Qwen/Qwen2.5-1.5B-Instruct
+device: auto
+dtype: auto
+trust_remote_code: false
